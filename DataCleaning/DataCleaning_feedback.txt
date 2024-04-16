@@ -1,0 +1,25 @@
+11/08/23 22:17
+
+Problem1 (10 points):
+Score += 10
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (15 points):
+We were looking for the top 10 columns separate from the summary.  THe summary has statistics that can be relevant for you analysis.
+Score += 14
+
+Problem4 (10 points):
+You didn't print the shape of the dataframe, or explain what model was best
+Score += 6
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
