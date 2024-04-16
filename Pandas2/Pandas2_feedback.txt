@@ -1,0 +1,52 @@
+09/19/23 18:21
+
+Problem1 (10 points):
+Should have a title for each of the plots
+Score += 8
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (10 points):
+Should have a title for each of the plots
+Score += 8
+
+Problem4 (15 points):
+Need titles on each of the plots. Need citations on the first two figures. Also the citation should be more than just a url
+Score += 8
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 39/50 = 78.0%
+
+-------------------------------------------------------------------------------
+
+09/27/23 23:37
+
+Problem1 (10 points):
+ 
+Score += 8
+
+Problem2 (10 points):
+Score += 10
+
+Problem3 (10 points):
+ 
+Score += 8
+
+Problem4 (15 points):
+Corrected for grader error
+Score += 11
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+
+Comments:
+	Corrected for grader error
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,27 @@
+09/27/23 23:02
+
+Problem1 (8 points):
+Score += 8
+
+Problem2 (9 points):
+Score += 9
+
+Problem3 (9 points):
+Score += 9
+
+Problem4 (9 points):
+Score += 9
+
+Problem5 (10 points):
+First answer is wrong. On the last answer we were looking for something more along the lines of there not being enough data
+Score += 7
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
