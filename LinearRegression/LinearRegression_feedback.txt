@@ -1,0 +1,33 @@
+12/07/23 15:38
+
+Problem1 (3 points):
+Score += 3
+
+Problem2 (8 points):
+Score += 8
+
+Problem3 (3 points):
+Score += 3
+
+Problem4 (8 points):
+Score += 8
+
+Problem5 (5 points):
+You got a time of zero whcih doesn't make sense
+Score += 4
+
+Problem6 (9 points):
+You got the wrong best combo.
+Score += 7
+
+Problem7 (9 points):
+Wrong R^2 values
+Score += 4
+
+Code_Quality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+-------------------------------------------------------------------------------
+
