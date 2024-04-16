@@ -1,0 +1,34 @@
+02/27/24 18:29
+
+Problem1 (5 points):
+Score += 5
+
+Problem2 (5 points):
+Score += 5
+
+Problem3 (5 points):
+Score += 5
+
+Problem4 (5 points):
+The most likely state should be 1. Looks like the issue is with how you normalize gamma
+Score += 3
+
+Problem5 (5 points):
+The most likely state sequence is wrong. Looks like you are taking the max too early when you update eta and aren't reshaping the row from B to be a column vector. If you reshape the vector correctly I think the issue with the max will be fixed too, but as it now stands its causing you to get a much different sequence than the correct answer.
+Score += 3
+
+Problem6 (10 points):
+Score += 10
+
+Problem7 (10 points):
+Score += 10
+
+CodeQuality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
